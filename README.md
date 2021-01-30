@@ -1,9 +1,10 @@
 # Studying-Web-Split-Landing-Page
-### Tecnologies
+### Tecnologies 
 ```sh
 html
 css
 javaScript
+
 ```
 
 ### What I've learned
